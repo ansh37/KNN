@@ -1,2 +1,1 @@
-# KNN
-K Neighbiors Classifier using Numpy using different distance matrics.
+Implementation of Machine Learning Algorithms from scratch using NUMPY.

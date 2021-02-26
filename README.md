@@ -1,1 +1,1 @@
-Implementation of Machine Learning Algorithms from scratch using NUMPY.
+Implementation of Machine Learning Algorithms from scratch using Numpy.
